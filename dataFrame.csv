@@ -1,4 +1,4 @@
-sample,meta,nominal size,dosefactor,measured size,etch time,etch HF,o2 time
+sample,meta,design_size,dose_factor,measured_size,etch_time,etch_HF,o2_time
 F1,oben,500,1.7,458,10,20,25
 F1,oben,500,1.6,465,10,20,25
 F1,oben,200,1.6,172,10,20,25
